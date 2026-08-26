@@ -10,3 +10,12 @@ header {
     align-items: center;
     padding: 20px 50px;
 }
+footer {
+    background-color:rgba(0, 0, 0, 04)
+}
+footer .t ul{
+    /*estou pensando /*/ *
+}
+.a { 
+    flex-direction: column;
+}
