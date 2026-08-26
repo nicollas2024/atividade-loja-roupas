@@ -1,1 +1,8 @@
-
+header {
+    background-color: rgba(0, 0, 0, 0.85);
+    color: #ffffff; 
+    font-weight: bold;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
