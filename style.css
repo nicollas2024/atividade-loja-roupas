@@ -6,3 +6,8 @@ header {
     height: auto;
     text-align: center;
 }
+body {
+    background-color: whitesmoke;
+    background-size: cover;
+    background-position: center;
+}
