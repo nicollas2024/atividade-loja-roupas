@@ -29,3 +29,14 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
+header.coisoparacomplementaracordooutro {
+    display:block;
+    padding: 10px 25px;
+    color: #4a4a4a;
+    letter-spacing: 1px;
+    transition: background-color 0.2s, color 0.2s;
+}
+header a:hover {
+    background-color: #ebdcd3;
+    color: #e53e3e;
+}
