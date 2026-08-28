@@ -40,3 +40,9 @@ header a:hover {
     background-color: #ebdcd3;
     color: #e53e3e;
 }
+.inicio {
+    background-color: #01200e;
+    padding: 80px 20px;
+    text-align: center;
+    border-bottom: 1px solid #d1c0b5;
+}
