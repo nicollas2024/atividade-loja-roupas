@@ -1,6 +1,5 @@
 header {
-    background-color: rgba(0, 0, 0, 0.85);
-    color: #ffffff; 
+    background-color: rgba(109, 109, 109, 0.5);
     font-weight: bold;
     width: 100%;
     height: auto;
@@ -9,13 +8,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
+    border: 10px outset black;
 }
 footer {
     background-color:rgba(0, 0, 0, 04)
-}
-footer .t ul{
-    /*estou pensando /*/ *
-}
-.a { 
-    flex-direction: column;
 }
