@@ -9,7 +9,20 @@ header {
     align-items: center;
     padding: 20px 50px;
     border: 10px outset black;
+    margin: 0;
+}
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
 }
 footer {
-    background-color:rgba(0, 0, 0, 04)
+    background-color:rgba(0, 0, 0, 04);
+    font-weight: bold;
+    width: 100%;
+    height: auto;
+    min-height:60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
